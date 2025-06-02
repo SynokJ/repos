@@ -9,3 +9,4 @@
 *.File filter=lfs diff=lfs merge=lfs -text
 add filter=lfs diff=lfs merge=lfs -text
 LinuxServer/linuxServer_Data/Resources/Unity filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
